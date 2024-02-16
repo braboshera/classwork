@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    object-fit: contain;
+    height: 200px;
+    width: 30vw;
+    border-radius: 90px;
+    margin-left: 38vw;
+} 
+h1{
+display: flex;
+justify-content: center;
+}
+.para{
+
+font-weight: 700;
+}
